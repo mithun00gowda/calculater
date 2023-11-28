@@ -1,0 +1,20 @@
+/* .bg-red{
+    background: red;
+} */
+.text-center{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.row{
+    margin: 3px 0;
+}
+.color{
+    background: orangered;
+}
